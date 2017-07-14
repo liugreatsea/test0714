@@ -1,0 +1,7 @@
+---
+applications:
+ - name: ConversationTraining
+   random-route: true
+   path: target/ConversationTraining.war
+   memory: 512M
+   instances: 1
